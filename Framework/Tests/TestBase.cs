@@ -21,9 +21,9 @@ namespace Tests
 {
     public class ModellerConfig
     {
-        public static String APIUrl = "http://ec2-35-178-193-112.eu-west-2.compute.amazonaws.com";
+        public static String APIUrl = "https://cloud.testinsights.io";
 
-        public static String APIKey = "PtYawE1NRkqBmf4dy3tY6kJW5";
+        public static String APIKey = "R-8S1IAoXOTU5ljcb7D8idjXL";
 
         public static String ServerName = "VIP-James";
 
