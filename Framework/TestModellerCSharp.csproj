@@ -225,6 +225,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tests\Addition_DefaultProfile.cs" />
+    <Compile Include="Tests\Calculator_DefaultProfile.cs" />
     <Compile Include="Tests\Samples\CalculatorTest.cs" />
     <Compile Include="Tests\TestBase.cs" />
   </ItemGroup>
